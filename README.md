@@ -1,2 +1,2 @@
 # SubmissionID_1741_Response
-Response to the submission (#1741)
+Response to the submission (#1741) of KDD2024
